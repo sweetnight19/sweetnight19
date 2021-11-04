@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
   -->
-
 - 💬 Ask me about david-marquet@hotmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/davidmarquetvall/
 <!--
